@@ -1,5 +1,9 @@
 # SDF_01_LEBMOK25571_PTO2508_B_LEBOGANG-MOKOENA_SDF01
 My First step into GitHub! Learning version control, building projects and growing as a developer 
+<p align="center">
+  <img src="https://github.com/LebogangMokoena24/SDF_01_LEBMOK25571_PTO2508_B_LEBOGANG-MOKOENA_SDF01/blob/main/IMG-20240810-WA0007(1).jpg" alt="My Profile Picture" width="200"/>
+</p>
+
 # Lebogang Mokoena - My First GitHub Project 🚀
 Welcome to my very first GitHub repository!  
 This marks the beginning of my journey into the world of tech, business, and problem-solving.  
